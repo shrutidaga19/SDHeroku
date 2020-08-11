@@ -1,0 +1,23 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Event_Object_Metadata__c",
+                "referenceId": "Event_Object_Metadata__1"
+            },
+            "BST_Country__c": "Korea",
+            "BST_isActive__c": true,
+            "CurrencyIsoCode": "INR",
+            "DefaultForAll__c": false,
+            "Event_Field_Name__c": "Event Picklistsd",
+            "Event_Field__c": "Event_Picklist_sd__c",
+            "Event_Record_Type__c": "Field Training Activity",
+            "Event_Type__c": "All",
+            "IsDeleted": false,
+            "Profile__c": "BOOST - Business Administrator;BOOST - Sales Representative",
+            "Required__c": false,
+            "Status__c": "All",
+            "Visibile__c": true
+        }
+    ]
+}
